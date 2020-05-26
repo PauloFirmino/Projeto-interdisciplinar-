@@ -1,0 +1,105 @@
+
+.{
+    margin: 0;
+    padding: 0;
+}
+
+.Top-Div{
+    position: relative;
+    width: 100%;
+    height: 125px;
+    background-image: url("Cabe.png");
+}
+
+.Menu{
+    margin-top: 5px;
+    height: 28px;
+    background-color: #31a852;
+    
+}
+
+.Menu ul li{
+    display: inline;
+}
+
+.Menu ul li a{
+    padding: 100px;
+    display: inline block;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+.Anuncio{
+    margin: 20px;
+    width: 30%;
+    float: left;
+    margin-top: 20px;
+}
+h1{
+    text-align: justify;
+    font-size: 30px;
+    color: #145c29;
+    margin: 50px;
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+    font-size: 15px;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    text-align: justify;
+    font-size: 25px;
+    color: #000000;
+}
+.Descrição{
+    width: 65%;
+    text-align: justify;
+    font-size: 15px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0cm;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.Prop{
+    width: 100%;
+    margin-top: 10px;
+}
+.Img{
+    width: 50%;
+    margin: 30px;
+    float: left;
+}
+.Descr{
+    width: 40%;
+    margin: 5px;
+    float: left;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+   }
+   .Contato{
+       background-color: #81ae7c;
+       width: 70%;
+       border: 2px solid rgb(10, 10, 10);
+       margin: 50px;
+    }
+    .Informações{
+        margin: 50px;
+    }
+    .Preço{
+        font-size: 20px;
+        color:#145c29 ;
+    }
+    .Fundo{
+        width: 80%;
+        background-color: #a2b2a0;
+        margin-top: 5px;
+    }
+    
